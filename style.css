@@ -1,0 +1,13 @@
+:root {
+    --monserat-font: 'Montserrat', sans-serif;
+    --poppi-font: 'Poppins', sans-serif;
+    --roboto-font: 'Roboto', sans-serif;
+}
+
+
+
+
+.background-kitchen {
+    background-image: url(kintchen.png);
+    background-repeat: no-repeat;
+}
